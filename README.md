@@ -27,11 +27,10 @@
 ---
 
 ## ⚡ Power & Electronics
-รายละเอียดอุปกรณ์ไฟฟ้าและวงจร:
 * **Main Controller:** Raspberry Pi 4 Model B
 * **Sensors:** 
-  * USB Camera
-* **Battery:** LiPo 11.1V 3S
+  * USB Webcam
+* **Battery:** LiPo 11.1V
 * **Schematic Diagram:** Full Schematic Diagram `schemes/`
 
 ---
@@ -43,5 +42,3 @@
 * **Source Code:** Robot Programs `src/`
 
 ## 📹 Robot Performance Videos
-* **Open Challenge Video:** []
-* **Obstacle Challenge Video:** []
